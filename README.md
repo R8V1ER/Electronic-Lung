@@ -31,10 +31,10 @@ It would trigger visual feedback on the HUD, such as darkening lung visuals, dam
 It will record the cumulative progress showing estimated degradation and health recovery over time
 
 ## Interactives
-1. Air flow sensor/FS3000 to simulate inhaling the PulmoClear\
-2. The breathing and lung damage/contamination will reflect in the 3D lung model\
-3. The lung health indicators and health trajectories will be presented in the HUD, with traffic light color and shaded area on the lung image indicating the level of severity.\
-The system will send simple and intuitive health notification when any signs of air pollution, lung infection or damage appears\
+1. Air flow sensor/FS3000 to simulate inhaling the PulmoClear
+2. The breathing and lung damage/contamination will reflect in the 3D lung model
+3. The lung health indicators and health trajectories will be presented in the HUD, with traffic light color and shaded area on the lung image indicating the level of severity.
+The system will send simple and intuitive health notification when any signs of air pollution, lung infection or damage appears
 Users can review recent data trends of health trajectories, and look at the health forecasting data on the linked smartphone or smartwatch app.
 
 ## System architecture
